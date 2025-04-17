@@ -2,5 +2,17 @@
 Todo:
   ✔ Review the comparison between Mobile and Desktop version @done(25-04-16 20:59)
     ☐ Entire content conainer should be GRID, child elements should be flex.  
-  ☐ Organize code into semantic HTML
+  ✔ Organize code into semantic HTML @done(25-04-16 21:42)
+@critical 
   ☐ Create SCSS variables 
+    ☐ Colors
+    ☐ Fonts
+  ☐ Create Font import
+  ☐ Style Author Name
+    ☐ Margin
+    ☐ Font size
+    ☐ Color
+  ☐ Style Author Title
+    ☐ Margin
+    ☐ Font size
+    ☐ Color
